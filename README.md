@@ -67,6 +67,16 @@ Content is positioned using absolute measurements to ensure exact placement on t
 
 ## Getting Started
 
+### 🚀 Quick Start (2 minutes)
+Want to see it working right now? Check out the [quickstart](quickstart/) folder:
+```bash
+cd quickstart
+npm install
+npm run dev
+# Open http://localhost:3000
+```
+
+### 📚 Full Documentation
 1. Read the [Architecture Overview](01-architecture/overview.md)
 2. Understand [Page Sizing](02-page-sizing/dimensions.md)
 3. Learn about [Content Layout](03-content-layout/layout-structure.md)

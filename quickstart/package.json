@@ -1,0 +1,12 @@
+{
+  "name": "pdf-export-quickstart",
+  "version": "1.0.0",
+  "description": "Quick PDF export demo - get running in 2 minutes",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.0.0"
+  }
+}
